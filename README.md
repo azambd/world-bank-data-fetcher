@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 Your Name - [azam@wscraper.com]
 
-Project Link: https://github.com/your-github-username/worldbank-data-fetcher
+Project Link: https://github.com/azambd/worldbank-data-fetcher
 
 ## Acknowledgements
 
